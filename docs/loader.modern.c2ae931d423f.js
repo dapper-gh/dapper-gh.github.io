@@ -1,0 +1,1 @@
+(()=>{var __webpack_exports__={};!function(chunks,suffix,chunk,el){chunks=CHUNKS;try{eval("async function _(){}"),suffix=".modern.[COMPILATIONHASH].js"}catch(c){suffix=".legacy.[COMPILATIONHASH].js"}for(;chunk=chunks.pop();)el=document.createElement("script"),el.src="/"+chunk+suffix,el.async=!0,document.head.appendChild(el)}()})();
